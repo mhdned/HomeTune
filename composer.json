@@ -1,0 +1,12 @@
+{
+  "autoload": {
+    "psr-4": {
+      "App\\": "app/",
+      "System\\": "system/"
+    }
+  },
+  "minimum-stability": "alpha",
+  "require": {
+    "intervention/image": "2.5"
+  }
+}
